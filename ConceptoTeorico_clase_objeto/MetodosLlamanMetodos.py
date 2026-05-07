@@ -13,7 +13,7 @@ class Persona:
     def presentarse(self):
         estado = "mayor" if self.es_mayor_de_edad() else "menor"
         return f"Hola, soy {self.nombre_completo()} y soy {estado} de edad."
-persona = Persona("Juan", "Pérez", 25)
-print(persona.nombre_completo())  # Juan Pérez
+persona = Persona("Juan", "Giraldo", 25)
+print(persona.nombre_completo())  # Juan Giraldo
 print(persona.es_mayor_de_edad()) # True
-print(persona.presentarse())      # Hola, soy Juan Pérez y soy mayor de edad.
+print(persona.presentarse())      # Hola, soy Juan Giraldo y soy mayor de edad.
