@@ -15,3 +15,6 @@ Para este proyecto utilizamos la Programacion orientada a objetos (POO), para un
 
 
 ## Ejemplos de Ejecucion (Salida en consola)
+<details>
+<summary><b> Capturas 01 - 10 </b><summary>
+![Evidencias](images/01.png)
